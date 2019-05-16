@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobaepeiw.gramy.net/sitemap.xml
